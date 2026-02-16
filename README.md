@@ -139,7 +139,7 @@ internal/
 
 |                   테스트 전 데이터 잔여량                   |                   테스트 후 데이터 잔여량                   |                   핫스팟 데이터 공유량                   |
 | :----------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------------: |
-| `<img src="docs/images/data-before-test.jpg" width="250">` | `<img src="docs/images/data-after-test.jpg" width="250">` | `<img src="docs/images/hotspot-usage.jpg" width="200">` |
+| <img src="docs/images/data-before-test.jpg" width="250"> | <img src="docs/images/data-after-test.jpg" width="250"> | <img src="docs/images/hotspot-usage.jpg" width="200"> |
 |                           18.04GB                           |                            18GB                            |                          1.34GB                          |
 
 핫스팟으로 1.34GB를 전송했으나 데이터 잔여량은 약 0.04GB만 차감되었습니다.
