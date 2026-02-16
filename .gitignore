@@ -1,0 +1,19 @@
+# Build output
+bin/
+
+# Config (auto-generated)
+config.txt
+
+# Dependencies
+wintun.dll
+
+# IDE / Tools
+.idea/
+.vscode/
+.claude/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
